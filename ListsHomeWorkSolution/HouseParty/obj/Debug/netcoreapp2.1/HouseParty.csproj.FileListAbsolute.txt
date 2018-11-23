@@ -1,0 +1,11 @@
+C:\Users\TOSHIBA\source\repos\ListsHomeWorkSolution\HouseParty\bin\Debug\netcoreapp2.1\HouseParty.deps.json
+C:\Users\TOSHIBA\source\repos\ListsHomeWorkSolution\HouseParty\bin\Debug\netcoreapp2.1\HouseParty.runtimeconfig.json
+C:\Users\TOSHIBA\source\repos\ListsHomeWorkSolution\HouseParty\bin\Debug\netcoreapp2.1\HouseParty.runtimeconfig.dev.json
+C:\Users\TOSHIBA\source\repos\ListsHomeWorkSolution\HouseParty\bin\Debug\netcoreapp2.1\HouseParty.dll
+C:\Users\TOSHIBA\source\repos\ListsHomeWorkSolution\HouseParty\bin\Debug\netcoreapp2.1\HouseParty.pdb
+C:\Users\TOSHIBA\source\repos\ListsHomeWorkSolution\HouseParty\obj\Debug\netcoreapp2.1\HouseParty.csprojAssemblyReference.cache
+C:\Users\TOSHIBA\source\repos\ListsHomeWorkSolution\HouseParty\obj\Debug\netcoreapp2.1\HouseParty.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\source\repos\ListsHomeWorkSolution\HouseParty\obj\Debug\netcoreapp2.1\HouseParty.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\source\repos\ListsHomeWorkSolution\HouseParty\obj\Debug\netcoreapp2.1\HouseParty.AssemblyInfo.cs
+C:\Users\TOSHIBA\source\repos\ListsHomeWorkSolution\HouseParty\obj\Debug\netcoreapp2.1\HouseParty.dll
+C:\Users\TOSHIBA\source\repos\ListsHomeWorkSolution\HouseParty\obj\Debug\netcoreapp2.1\HouseParty.pdb
